@@ -1,6 +1,6 @@
 # Mips_simulator
 
-Group project (sorry for the complex code). I cannot edit certain parts of the code because I worked in a group.
+Group project (sorry for the complex code. This was our first project ever using Python, and the whole group was using different commands without any previous knowledge). I cannot edit certain parts of the code because I worked in a group.
 I have a permission to share it.
 
 Simulating MIPS processor and cache. 
